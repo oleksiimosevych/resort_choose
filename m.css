@@ -1,0 +1,92 @@
+span.ldd_menu {
+	margin: 5px;
+	padding: 0;
+	display: block;
+	height: 40px;
+	background-color: #000000;/*bg of right side of topmenu*/
+	list-style: none;
+	font-family: "Trebuchet MS", sans-serif;
+	border-top: 1px solid #171010;
+	border-bottom: 1px solid #171010;
+	border-left: 10px solid #171010;
+	-moz-box-shadow: 0px 3px 4px #171010;
+	-webkit-box-shadow: 0px 3px 4px #171010;
+	-box-shadow: 0px 3px 4px #171010;
+	}
+span.ldd_menu a {
+	text-decoration: none;
+	}
+span.ldd_menu > li {
+	float:left;
+	position:relative;
+	}
+span.ldd_menu > li > span {
+	float: left;
+	color: #fff;
+	background-color: #171010;/*bg of top menu items*/
+	height: 50px;/*тло висуванців*/
+	line-height: 50px;
+	cursor: default;
+	padding: 0px 20px;
+	text-shadow: 0px 0px 1px #fffff;
+	border-right: 1px solid #171010;
+	border-left: 1px solid #171010;
+	}
+ul.ldd_menu .ldd_submenu {
+	position: absolute;
+	top: 50px;
+	width: 480px;
+	display: none;
+	opacity: 0.9;
+	left: 0px;
+	font-size: 10px;
+	background: #0051A1;
+	border-top: 1px solid #3474C6;
+	-moz-box-shadow: 0px 3px 4px #171010 inset;
+	-webkit-box-shadow: 0px 3px 4px #171010 inset;
+	-box-shadow: 0px 3px 4px #171010 inset;
+	}
+a.ldd_subfoot{
+	background-color: #f0f0f0;/*bg of bottom line with rights*/
+	color: #444;/*text All rights*/
+	display: block;
+	clear: both;
+	padding: 15px 20px;
+	text-transform: uppercase;
+	font-family: Arial, serif;
+	font-size: 12px;
+	text-shadow: 0px 0px 1px #fff;
+	-moz-box-shadow: 0px 0px 2px #777 inset;
+	-webkit-box-shadow: 0px 0px 2px #777 inset;
+	-box-shadow: 0px 0px 2px #777 inset;
+	}
+span.ldd_menu ul {
+	list-style: none;
+	float: left;
+	border-left: 1px solid #171010;
+	margin: 20px 0px 10px 30px;
+	padding: 10px;
+	}
+li.ldd_heading {
+	font-family: Georgia, serif;
+	font-size: 13px;
+	font-style: italic;
+	color: #171010;/*text pidmenu*/
+	text-shadow: 0px 0px 1px #171010;
+	padding: 0px 0px 10px 0px;
+	}
+span.ldd_menu ul li a {
+	font-family: Arial, serif;
+	font-size: 10px;
+	line-height: 20px;
+	color: #fff;/*text pidpidmenu*/
+	padding: 1px 3px;
+	}
+span.ldd_menu ul li a:hover {
+	-moz-box-shadow: 0px 0px 2px #2A6DC3;
+	-webkit-box-shadow: 0px 0px 2px #2A6DC3;
+	box-shadow: 0px 0px 2px #2A6DC3;
+	background: #007BC2;
+	}
+	
+span.topMENUtitles{float:left;padding-left:10%;}

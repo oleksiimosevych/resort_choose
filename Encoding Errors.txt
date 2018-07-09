@@ -1,0 +1,143 @@
+﻿Due to the limitations of the supported zip file format, the following file(s) had to be renamed.
+
+Original File Name  ->  New File Name
+error/HOME_PHOTOS/Лас.jpg -> error/HOME_PHOTOS/File1.jpg
+error/HOME_PHOTOS/Ласвегас.jpg -> error/HOME_PHOTOS/File2.jpg
+error/HOME_PHOTOS/Мальдіви.jpg -> error/HOME_PHOTOS/File3.jpg
+error/HOME_PHOTOS/Сейшели.jpg -> error/HOME_PHOTOS/File4.jpg
+error/HOME_PHOTOS/Таїті.jpg -> error/HOME_PHOTOS/File5.jpg
+error/HOME_PHOTOS/Шрі-Ланка.jpg -> error/HOME_PHOTOS/File6.jpg
+error/images/big/Азовське море.jpg -> error/images/big/File7.jpg
+error/images/big/Атлантичний океан.jpg -> error/images/big/File8.jpg
+error/images/big/Атлантичний-океан.jpg -> error/images/big/File9.jpg
+error/images/big/Балтійське море.JPG -> error/images/big/File10.JPG
+error/images/big/Індійський океан.jpg -> error/images/big/File11.jpg
+error/images/big/Мальдіви.jpg -> error/images/big/File12.jpg
+error/images/big/Мехіко.jpg -> error/images/big/File13.jpg
+error/images/big/Сейшели.jpg -> error/images/big/File14.jpg
+error/images/big/Середземне море.jpg -> error/images/big/File15.jpg
+error/images/big/Таїті.jpg -> error/images/big/File16.jpg
+error/images/big/Тихий океан.jpg -> error/images/big/File17.jpg
+error/images/big/Чорне море.jpg -> error/images/big/File18.jpg
+error/images/big/Шрі-Ланка.jpg -> error/images/big/File19.jpg
+error/images/thumbs/Азовське море.jpg -> error/images/thumbs/File20.jpg
+error/images/thumbs/Атлантичний океан.jpg -> error/images/thumbs/File21.jpg
+error/images/thumbs/Балтійське море.JPG -> error/images/thumbs/File22.JPG
+error/images/thumbs/Індійський океан.jpg -> error/images/thumbs/File23.jpg
+error/images/thumbs/Мальдіви.jpg -> error/images/thumbs/File24.jpg
+error/images/thumbs/Мехіко.jpg -> error/images/thumbs/File25.jpg
+error/images/thumbs/Сейшели.jpg -> error/images/thumbs/File26.jpg
+error/images/thumbs/Середземне море.jpg -> error/images/thumbs/File27.jpg
+error/images/thumbs/Таїті.jpg -> error/images/thumbs/File28.jpg
+error/images/thumbs/Тихий океан.jpg -> error/images/thumbs/File29.jpg
+error/images/thumbs/Чорне море.jpg -> error/images/thumbs/File30.jpg
+error/images/thumbs/Шрі-Ланка.jpg -> error/images/thumbs/File31.jpg
+error/Індивідуальне Сайт 6.psd -> error/File32.psd
+HOME_PHOTOS/Лас.jpg -> HOME_PHOTOS/File33.jpg
+HOME_PHOTOS/Ласвегас.jpg -> HOME_PHOTOS/File34.jpg
+HOME_PHOTOS/Мальдіви.jpg -> HOME_PHOTOS/File35.jpg
+HOME_PHOTOS/Сейшели.jpg -> HOME_PHOTOS/File36.jpg
+HOME_PHOTOS/Таїті.jpg -> HOME_PHOTOS/File37.jpg
+HOME_PHOTOS/Шрі-Ланка.jpg -> HOME_PHOTOS/File38.jpg
+images/big/Азовське море.jpg -> images/big/File39.jpg
+images/big/Атлантичний океан.jpg -> images/big/File40.jpg
+images/big/Атлантичний-океан.jpg -> images/big/File41.jpg
+images/big/Балтійське море.JPG -> images/big/File42.JPG
+images/big/Індійський океан.jpg -> images/big/File43.jpg
+images/big/Мальдіви.jpg -> images/big/File44.jpg
+images/big/Мехіко.jpg -> images/big/File45.jpg
+images/big/Сейшели.jpg -> images/big/File46.jpg
+images/big/Середземне море.jpg -> images/big/File47.jpg
+images/big/Таїті.jpg -> images/big/File48.jpg
+images/big/Тихий океан.jpg -> images/big/File49.jpg
+images/big/Чорне море.jpg -> images/big/File50.jpg
+images/big/Шрі-Ланка.jpg -> images/big/File51.jpg
+images/thumbs/Азовське море.jpg -> images/thumbs/File52.jpg
+images/thumbs/Атлантичний океан.jpg -> images/thumbs/File53.jpg
+images/thumbs/Балтійське море.JPG -> images/thumbs/File54.JPG
+images/thumbs/Індійський океан.jpg -> images/thumbs/File55.jpg
+images/thumbs/Мальдіви.jpg -> images/thumbs/File56.jpg
+images/thumbs/Мехіко.jpg -> images/thumbs/File57.jpg
+images/thumbs/Сейшели.jpg -> images/thumbs/File58.jpg
+images/thumbs/Середземне море.jpg -> images/thumbs/File59.jpg
+images/thumbs/Таїті.jpg -> images/thumbs/File60.jpg
+images/thumbs/Тихий океан.jpg -> images/thumbs/File61.jpg
+images/thumbs/Чорне море.jpg -> images/thumbs/File62.jpg
+images/thumbs/Шрі-Ланка.jpg -> images/thumbs/File63.jpg
+pages/paradize/shrilanka/SHRILANKA_PHOTOS/Лас.jpg -> pages/paradize/shrilanka/SHRILANKA_PHOTOS/File64.jpg
+pages/paradize/shrilanka/SHRILANKA_PHOTOS/Ласвегас.jpg -> pages/paradize/shrilanka/SHRILANKA_PHOTOS/File65.jpg
+pages/paradize/shrilanka/SHRILANKA_PHOTOS/Мальдіви.jpg -> pages/paradize/shrilanka/SHRILANKA_PHOTOS/File66.jpg
+pages/paradize/shrilanka/SHRILANKA_PHOTOS/Сейшели.jpg -> pages/paradize/shrilanka/SHRILANKA_PHOTOS/File67.jpg
+pages/paradize/shrilanka/SHRILANKA_PHOTOS/Таїті.jpg -> pages/paradize/shrilanka/SHRILANKA_PHOTOS/File68.jpg
+pages/paradize/shrilanka/SHRILANKA_PHOTOS/Шрі-Ланка.jpg -> pages/paradize/shrilanka/SHRILANKA_PHOTOS/File69.jpg
+Алекс Мосевич. ГалереяВідпочинок/css/prettyPhoto.css -> 1/css/prettyPhoto.css
+Алекс Мосевич. ГалереяВідпочинок/css/styles.css -> 1/css/styles.css
+Алекс Мосевич. ГалереяВідпочинок/images/big/Азовське море.jpg -> 1/images/big/File72.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Атлантичний океан.jpg -> 1/images/big/File73.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Атлантичний-океан.jpg -> 1/images/big/File74.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Балтійське море.JPG -> 1/images/big/File75.JPG
+Алекс Мосевич. ГалереяВідпочинок/images/big/Індійський океан.jpg -> 1/images/big/File76.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Мальдіви.jpg -> 1/images/big/File77.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Мехіко.jpg -> 1/images/big/File78.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Сейшели.jpg -> 1/images/big/File79.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Середземне море.jpg -> 1/images/big/File80.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Таїті.jpg -> 1/images/big/File81.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Тихий океан.jpg -> 1/images/big/File82.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Чорне море.jpg -> 1/images/big/File83.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/big/Шрі-Ланка.jpg -> 1/images/big/File84.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_rounded/btnNext.png -> 1/images/prettyPhoto/dark_rounded/btnNext.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_rounded/btnPrevious.png -> 1/images/prettyPhoto/dark_rounded/btnPrevious.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_rounded/contentPattern.png -> 1/images/prettyPhoto/dark_rounded/contentPattern.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_rounded/default_thumbnail.gif -> 1/images/prettyPhoto/dark_rounded/default_thumbnail.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_rounded/loader.gif -> 1/images/prettyPhoto/dark_rounded/loader.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_rounded/sprite.png -> 1/images/prettyPhoto/dark_rounded/sprite.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_square/btnNext.png -> 1/images/prettyPhoto/dark_square/btnNext.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_square/btnPrevious.png -> 1/images/prettyPhoto/dark_square/btnPrevious.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_square/contentPattern.png -> 1/images/prettyPhoto/dark_square/contentPattern.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_square/default_thumbnail.gif -> 1/images/prettyPhoto/dark_square/default_thumbnail.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/dark_square/loader.gif -> 1/images/prettyPhoto/dark_square/loader.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/btnNext.png -> 1/images/prettyPhoto/facebook/btnNext.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/btnPrevious.png -> 1/images/prettyPhoto/facebook/btnPrevious.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/contentPatternBottom.png -> 1/images/prettyPhoto/facebook/contentPatternBottom.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/contentPatternLeft.png -> 1/images/prettyPhoto/facebook/contentPatternLeft.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/contentPatternRight.png -> 1/images/prettyPhoto/facebook/contentPatternRight.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/contentPatternTop.png -> 1/images/prettyPhoto/facebook/contentPatternTop.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/default_thumbnail.gif -> 1/images/prettyPhoto/facebook/default_thumbnail.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/loader.gif -> 1/images/prettyPhoto/facebook/loader.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/facebook/sprite.png -> 1/images/prettyPhoto/facebook/sprite.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_rounded/btnNext.png -> 1/images/prettyPhoto/light_rounded/btnNext.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_rounded/btnPrevious.png -> 1/images/prettyPhoto/light_rounded/btnPrevious.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_rounded/default_thumbnail.gif -> 1/images/prettyPhoto/light_rounded/default_thumbnail.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_rounded/loader.gif -> 1/images/prettyPhoto/light_rounded/loader.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_rounded/sprite.png -> 1/images/prettyPhoto/light_rounded/sprite.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_square/btnNext.png -> 1/images/prettyPhoto/light_square/btnNext.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_square/btnPrevious.png -> 1/images/prettyPhoto/light_square/btnPrevious.png
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_square/default_thumbnail.gif -> 1/images/prettyPhoto/light_square/default_thumbnail.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_square/loader.gif -> 1/images/prettyPhoto/light_square/loader.gif
+Алекс Мосевич. ГалереяВідпочинок/images/prettyPhoto/light_square/sprite.png -> 1/images/prettyPhoto/light_square/sprite.png
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Азовське море.jpg -> 1/images/thumbs/File115.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Атлантичний океан.jpg -> 1/images/thumbs/File116.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Балтійське море.JPG -> 1/images/thumbs/File117.JPG
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Індійський океан.jpg -> 1/images/thumbs/File118.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Мальдіви.jpg -> 1/images/thumbs/File119.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Мехіко.jpg -> 1/images/thumbs/File120.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Сейшели.jpg -> 1/images/thumbs/File121.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Середземне море.jpg -> 1/images/thumbs/File122.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Таїті.jpg -> 1/images/thumbs/File123.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Тихий океан.jpg -> 1/images/thumbs/File124.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Чорне море.jpg -> 1/images/thumbs/File125.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/thumbs/Шрі-Ланка.jpg -> 1/images/thumbs/File126.jpg
+Алекс Мосевич. ГалереяВідпочинок/images/bkg-pat.png -> 1/images/bkg-pat.png
+Алекс Мосевич. ГалереяВідпочинок/images/goto.png -> 1/images/goto.png
+Алекс Мосевич. ГалереяВідпочинок/images/mglass.png -> 1/images/mglass.png
+Алекс Мосевич. ГалереяВідпочинок/js/jquery.easing.js -> 1/js/jquery.easing.js
+Алекс Мосевич. ГалереяВідпочинок/js/jquery.prettyPhoto.js -> 1/js/jquery.prettyPhoto.js
+Алекс Мосевич. ГалереяВідпочинок/js/jquery.quicksand.js -> 1/js/jquery.quicksand.js
+Алекс Мосевич. ГалереяВідпочинок/js/min.js -> 1/js/min.js
+Алекс Мосевич. ГалереяВідпочинок/js/script.js -> 1/js/script.js
+Алекс Мосевич. ГалереяВідпочинок/index.html -> 1/index.html
+СУПЕРменЮ/m.css -> 2/m.css
+СУПЕРменЮ/m.html -> 2/m.html
+СУПЕРменЮ/m.js -> 2/m.js
+СУПЕРменЮ/max.js -> 2/max.js
+Індивідуальне Сайт 6.psd -> File140.psd

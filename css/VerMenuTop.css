@@ -1,0 +1,60 @@
+ #menu_body li ul {
+				display: none;
+				}
+			#menu_body li:hover ul, #menu_body li.over ul {
+				display: block;/*відображення спадання*/
+				}
+			 #menu_body {
+				background:#003399; /*колір смуги, тла*/
+				width: 10em;/*ширина смуги, тла*/
+				float:right;/*куди плистиме*/
+				}
+			#menu_body a {
+				display: block;/*ніби нічого не змінює*/
+				width: 9em;/*ширина блоку для тексту, що тягнеться вліво при наведенні*//*САМЕ ВІД НЕЇ ЗАЛЕЖАЛА ПЛАВУЧІСТЬ САЙТУ*/
+				height: 2em;/*висота блоку для тексту, що тягнеться вліво при наведенні*/
+				/*
+				float:right; clear:left;*/
+				} 
+
+			#menu_body ul li {
+				list-style-type: none;
+				border-bottom: 10px solid #0000cc;
+				margin-left: -2.1em;/*зміщення внутрішнього блоку, який появляється при наведенні*/
+				padding: 0;/*відстань між словами*/
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li a {
+				color: 6699ff/*blue like*/;/*колір усього тексту, що в блоці(меню і підменю)*/
+				text-decoration: none;
+				font-size: 1em;/*розмір шрифту ВІД НЬОГО ТАКОЖ ЗАЛЕЖИТЬ ПЛАВУЧІСТЬ!*/
+				font-family: Arial,sans-serif;
+				float:left;/*зсув внутрішнього фону з текстом*/
+				clear:left;
+				} 
+
+			#menu_body ul li a:hover {
+				color: 000066;/*колір тексту при наведенні*/
+				text-decoration: underline;/*оформлення тексту*/
+				background:333399;/*фон бокса при наведенні*/
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li ul li {
+				border: 0px;
+				list-style-type: none;
+				color: #ffff33;
+				list-style-position: inside;
+				background:#fff;
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li ul{
+				border-top: 1px solid #red;
+				float:left;
+				clear:left;
+				}

@@ -1,0 +1,59 @@
+#EVERYTHING{float:left;}
+
+#JSHorizontalMenu{float:left; clear:left;}
+#TERRAFOTOGRA{float:left;}
+#MMaldivas{float:left; clear:left;}
+#SSeishelllas{float:left; }
+
+
+a:hover{color:white;}
+body{background-color:#66666;   margin:0%; background-image:bg.png;
+
+}
+	#connect{color:#574a4d; font-family:Trebuchet ms, Arial; font-size:10%; float:left;}
+		/*#tab1{margin-right:0%;float:left;padding-left:1%;}*/			
+			img{width:35;height:25;}
+			#hi{font-family:arial,sans-serif; float:left; padding-left:1%}/*good*/
+				/*a.menutop{color:#0c0903; text-decoration:none; font-size:50%;float:left;clear:left;}*/
+ 
+	/*#menubgtop{width:1051px; height:574px; background-image:URL(menubgtop.gif);float:left;}*/
+	/*	#lupa{background-image:URL(lua.png); background-repeat:no-repeat;}*
+			#topmenu{float:left;clear:left;padding-left:1%;}
+			#bg1{background-color:gray; font-family:arial,sans-serif;color:#171010; font-size:100%;text-align:center;float:left; }
+			#bg2{background-color:gray;font-family:arial,sans-serif;color:#171010; font-size:60%;text-align:center;float:left;}
+			#bg3{background-color:gray;font-family:arial,sans-serif; color:#171010;font-size:60%;text-align:center;float:left;}
+			#bg4{background-color:gray;font-family:arial,sans-serif; color:#171010;font-size:60%;text-align:center;float:left;}
+			#bg5{background-color:gray;color:#171010;font-family:arial,sans-serif; font-size:60%;text-align:center;float:left;}
+			#bg6{background-color:gray;width:280; height:45;float:left;}
+			*#lupa{background-image:URL(lupa.gif);width:45px;height:56px; margin-right:0;margin-left:85%; margin-top:-25}*/
+	span.TOP_PICTURES{font-family:arial bold,sans-serif;font-size: 100%;color:#171010;float:left;padding-left:1%;}
+	
+		a.bg{color:#171010;text-decoration:none;}
+		#bu1{color:#070c37;font-family:arial bold,sans-serif;font-size:85%;background-color:#363636;float:left solid;clear:left;}
+	#GOA{float:left; width:245px; height:175px;}
+	#mexicomax{border-color:#070c37;border-left-color:yellow; width:245px; height:175px; float:left;clear:;left;}
+
+	#tab2{float:left;clear:left;padding-left:1%;}
+		#tab3{float:right; clear:right;padding:1%;}
+			#Miami{background-image:URL(HOME_PHOTOS/Miami.jpg); width:182px; height:113px;background-repeat:no-repeat;}
+			#LasVegas{background-image:URL(HOME_PHOTOS/Ласвегас.jpg); width:182px; height:113px;background-repeat:no-repeat;}
+			#Valaarta{background-image:URL(HOME_PHOTOS/Valaarta.jpg); width:182px; height:113px;background-repeat:no-repeat;}
+			#SanLucas{background-image:URL(HOME_PHOTOS/SanLucas.jpg); width:182px; height:113px;background-repeat:no-repeat;}
+			#Cancan{background-image:URL(HOME_PHOTOS/Cancan.jpg); width:180px; height:110px;background-repeat:no-repeat;}
+			font.TextForPic{font-family:Arial Black, sans-serif; font-size:18px;}
+			button.bu1{color:#070c37;font-family:arial bold,sans-serif;font-size:85%; background-color:#363636; float:left solid;clear:left;}
+			#actual{float:left;clear:left;padding-left:1%;}
+			span.BigBotomText{font-family:Arial bold, sans-serif; font-size:18px; text-decoration:underline;float:left;clear:left;}
+		
+			
+			div.BorDiv{background-image:URL(HOME_PHOTOS/Maldivas.jpg); width:240px; height:170px;}
+				#BotMaldivas{font-size:14px; font-family:Arial;float:inherit}
+				#dol{font-size:24px; font-family:Arial;}
+				a.BottomText{color:black;float:left;clear:left;}
+				a:hover{color:252525;}
+				#Seishillas{background-image:URL(HOME_PHOTOS/Seishillas.jpg);width:240px; height:170px;}
+			span.CaptionBottom{font-size:30px; font-family: Arial bold, sans-serif;float:left;clear:left;padding-left:1%;}
+			#privacyPolicy1{ font-family:Arial;font-size:16px;clear:left;float:left;padding-left:40%;}
+			#privacyPolicy2{ font-family:Arial;font-size:16px;float:left;}
+			/*#LOGO{width:600px; height:140px; background-image:URL(LOGO.png);}
+			#IIN{width:200px; height:30px; margin-top:-1%;margin-left:8px}*/

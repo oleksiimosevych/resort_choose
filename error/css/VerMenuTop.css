@@ -1,0 +1,61 @@
+ #menu_body li ul {
+				display: none;
+				}
+			#menu_body li:hover ul, #menu_body li.over ul {
+				display: block;/*відображення спадання*/
+				}
+			 #menu_body {
+				background:#000000; /*колір смуги, тла*/
+				width: 15em;/*ширина смуги, тла*/
+				float:right;
+				}
+			#menu_body a {
+				display: block;
+				width: 180px;
+				height: 24px;
+				
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li {
+				list-style-type: none;
+				border-bottom: 1px solid #red;
+				margin-left: -40px;
+				padding-left: 0px;
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li a {
+				color: #202090;
+				text-decoration: none;
+				font-size: 10pt;/**/
+				font-family: Arial,sans-serif;
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li a:hover {
+				color: #505050;
+				text-decoration: none;
+				background:#yellow;
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li ul li {
+				border: 4;
+				list-style-type: none;
+				color: #yellow;
+				list-style-position: inside;
+				background:#7F7F7F;
+				float:left;
+				clear:left;
+				} 
+
+			#menu_body ul li ul{
+				border-top: 1px solid #red;
+				float:left;
+				clear:left;
+				}
